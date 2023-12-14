@@ -1,0 +1,4 @@
+
+       [ LSB: Void ] [ Init: runit ] [ Upd: 10 ] 
+
+      [ Shell: 5.2.15(1)-release ] [ PKGs: 1312 ]
